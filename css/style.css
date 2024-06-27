@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1,h2,h3,h4,h5,h6,p,ul,li{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "Poppins", sans-serif;
+    
+}
+li{
+   list-style: none;
+}
+header{
+
+background: #f7de18;
+}
+.logo{
+
+width: 7%;
+}
+.logo img{
+    
+width: 100%;
+}
+.nav-link{
+
+font-size: 18px;
+
+color: #000;
+
+text-transform: uppercase;
+
+font-weight: 500;
+
+margin-left: 30px;
+transition: .5s all ease-in-out;
+}
+.nav-link:hover{
+    color: #fff;
+}
+.banner {
+    background: black;
+    padding: 0px 0 70px 0;
+}
+.pic {
+
+color: #fff;
+}
+.botton{
+    width: 10%;
+}
+botton .icon {
+    width: 25%;
+}
+.carousel-indicators [data-bs-target] {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+.carousel-indicators {
+ 
+    bottom: -80px;
+}
+.icon_all {
+    padding: 40px 0;
+    background: #f5df18;
+}
+.hero{
+
+}
+.hero ul {
+    
+}
+.hero ul li{
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.hero ul li i{
+  
+        margin-right: 10px;
+    
+}
+.hero1{
+
+}
+.hero ul li i:hover {
+    color: #fff;
+}
+.hero1 ul li i:hover {
+    color: #fff;
+}
+.hero2 ul li i:hover {
+    color: #fff;
+}
+.hero1 ul li{
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.hero1 ul li i{
+    margin-right: 10px;
+}
+.hero2{
+
+}
+.hero2 ul {
+    
+}
+.hero2 ul li{
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.hero2 ul li i{
+    margin-right: 10px;
+}
